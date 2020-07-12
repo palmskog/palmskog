@@ -1,8 +1,4 @@
-[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/coq.svg" align="left" width="100" height="100" title="coq-community">](https://github.com/coq-community/manifesto)
-
-[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/disco.png" align="left" width="100" title="Distributed Components">](https://distributedcomponents.net)
-
-[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/pe.png" align="left" width="100" title="Proof Engineering">](https://proofengineering.org)  
+| [<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/coq.svg" width="100" height="100" title="coq-community">](https://github.com/coq-community/manifesto) | [<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/disco.png" width="100" title="Distributed Components">](https://distributedcomponents.net) | [<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/pe.png" width="100" title="Proof Engineering">](https://proofengineering.org) |
 
 ## About me
 
