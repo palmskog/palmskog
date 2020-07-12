@@ -2,8 +2,8 @@
 
 ## About me
 
- I am a researcher at [KTH Royal Institute of Technology](http://www.kth.se) in the [Theoretical Computer Science division](https://www.kth.se/tcs), primarily on topics related to program verification and [proof engineering](https://proofengineering.org). I currently work in the [Trustfull project](https://www.trustfull.proj.kth.se) on techniques for trustworthy full-stack computing.
+ I am a researcher at [KTH Royal Institute of Technology](http://www.kth.se) in the [Theoretical Computer Science division](https://www.kth.se/tcs), primarily on topics related to program verification and [proof engineering](https://proofengineering.org). I currently work in the [Trustfull project](https://www.trustfull.proj.kth.se) towards trustworthy full-stack computing.
 
 ## Research interests
 
-I am interested in development of techniques and tools based on [proof assistants](https://arxiv.org/abs/2003.06458) for construction of functionally correct and secure software systems; see my research publications on [DBLP](https://dblp.org/pers/hd/p/Palmskog:Karl) and [Google Scholar](https://scholar.google.com/citations?user=myVdnacAAAAJ). In addition, I am an avid user of the [Coq proof assistant](https://coq.inria.fr) for both proving and programming, usually complemented by a measure of [OCaml](https://ocaml.org). I also use [HOL4](https://hol-theorem-prover.org) and other dialects in the [ML family](http://sml-family.org).
+I am interested in development of techniques and tools [based on proof assistants](https://arxiv.org/abs/2003.06458) for construction of functionally correct and secure software systems; see my research publications on [DBLP](https://dblp.org/pers/hd/p/Palmskog:Karl) and [Google Scholar](https://scholar.google.com/citations?user=myVdnacAAAAJ). In addition, I am an avid user of the [Coq proof assistant](https://coq.inria.fr) for both proving and programming, usually complemented by a measure of [OCaml](https://ocaml.org). I also use [HOL4](https://hol-theorem-prover.org) and other dialects in the [ML family](http://sml-family.org).
