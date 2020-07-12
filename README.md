@@ -1,8 +1,12 @@
 <div style="width:115px">
-[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/coq.svg" width="100" height="100" title="coq-community">](https://github.com/coq-community/manifesto)</div>
+[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/coq.svg" width="100" height="100" title="coq-community">](https://github.com/coq-community/manifesto)
+</div>
 <div style="width:115px">
-[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/disco.png" width="100" title="Distributed Components">](https://distributedcomponents.net)</div>
-<div style="width:115px">[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/pe.png" width="100" title="Proof Engineering">](https://proofengineering.org)</div>
+[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/disco.png" width="100" title="Distributed Components">](https://distributedcomponents.net)
+</div>
+<div style="width:115px">
+[<img src="https://raw.githubusercontent.com/palmskog/palmskog/master/pe.png" width="100" title="Proof Engineering">](https://proofengineering.org)
+</div>
 
 ## About me
 
