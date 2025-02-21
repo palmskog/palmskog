@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a researcher and teacher at [KTH Royal Institute of Technology](https://www.kth.se) in the [Theoretical Computer Science division](https://www.kth.se/tcs) and the [STEP research group](https://kth-step.github.io). I do research primarily on topics related to program verification and [proof engineering](https://proofengineering.org).
+I am a researcher and teacher at [KTH Royal Institute of Technology](https://www.kth.se) in the [Division of Theoretical Computer Science](https://www.kth.se/cs/tcs/) and the [STEP research group](https://kth-step.github.io). I do research primarily on topics related to program verification and [proof engineering](https://proofengineering.org).
 
 ### Research interests
 
